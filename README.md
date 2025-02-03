@@ -30,10 +30,10 @@ This project is an advanced **LLM-powered digital assistant** designed to analyz
 ![Embedding Model & Vector Database](images/Amazon_Bedrock_Embedding_Model.png)
 
 
-1. **Upload player stats & team data to S3**.
-2. **Sync the data source in Amazon Bedrock**.
-3. **Query the assistant for team formation & player insights**.
-4. **Retrieve recommendations based on role and performance**.
+1. **Uploaded player stats & team data to S3**.
+2. **Synced the data source in Amazon Bedrock**.
+3. **Queried the assistant for team formation & player insights**.
+4. **Retrieved recommendations based on role and performance**.
 
 ## 🎯 Future Improvements
 - **Enhancing the LLM’s contextual understanding** with more training data.
